@@ -23,17 +23,6 @@
             ]
         },
         {
-            "id": 3,
-            "name": "Rahul",
-            "friends": [
-                1
-            ],
-            "liked_pages": [
-                101,
-                103
-            ]
-        },
-        {
             "id": 4,
             "name": "Sara",
             "friends": [
@@ -60,6 +49,10 @@
         {
             "id": 104,
             "name": "Web Dev Hub"
+        },
+        {
+            "id": 105,
+            "name": "web development"
         }
     ]
 }
